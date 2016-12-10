@@ -1,4 +1,4 @@
-package com.matt.datatypes;
+package com.matt.datatypes.queue;
 
 
 import java.util.LinkedList;
